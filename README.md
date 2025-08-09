@@ -1,6 +1,6 @@
 # Chatbot de Classification des Tables et Documents Sensibles
 
-Ce projet est une application web interactive développée avec **Streamlit**, intégrant un modèle de langage large (**LLaMA 3.1**) pour la classification automatique des tables et documents sensibles.
+Ce projet est une application web interactive développée avec **Streamlit**, intégrant un modèle de langage large (**LLaMA 3.1**) finement ajusté pour la classification automatique des tables et documents sensibles selon des critères spécifiques.
 
 ---
 
@@ -13,9 +13,9 @@ Ce projet est une application web interactive développée avec **Streamlit**, i
 ## Fonctionnalités principales
 
 - Interface simple et intuitive via Streamlit  
-- Utilisation du modèle LLaMA 3.1 pour comprendre et classifier des données sensibles  
-- Analyse et classification de tables et documents selon leur niveau de sensibilité  
-- Résultats présentés en temps réel avec explications  
+- Utilisation d’un modèle LLaMA 3.1 finetuné pour classifier les données sensibles selon des critères définis  
+- Analyse et classification précise de tables et documents selon leur niveau et type de sensibilité  
+- Résultats présentés en temps réel avec explications
 
 ---
 
